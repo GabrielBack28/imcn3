@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016336240278",
+    "project_id": "imc-n3",
+    "storage_bucket": "imc-n3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016336240278:android:47b78b14ddbf2b858b7cb7",
+        "android_client_info": {
+          "package_name": "com.example.imcn3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofP4_-b7ScBd8oAGgiq0ZPsbTcBcakWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
